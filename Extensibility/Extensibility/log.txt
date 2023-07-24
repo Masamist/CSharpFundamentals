@@ -1,0 +1,2 @@
+INFO: Migration started at {0}24/07/2023 1:05:47 pm
+INFO: Migration finished at {0}24/07/2023 1:05:47 pm
